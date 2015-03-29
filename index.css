@@ -1,8 +1,8 @@
 body {
 	font-family: 'Monaco';
-	margin: 0;
 	color: grey;
 	line-height: 1.5;
+	padding: 50px;
 }
 
 img {
@@ -10,18 +10,17 @@ img {
 }
 
 #main {
-	padding: 50px 15px;
 	font-size: 24px;
 	text-align: center;
 	width: 50%;
 	min-width: 550px;
 	display: block;
 	margin: auto;
-
 }
 
 .title {
 	font-size: 50px;
+	margin-top: 50px;
 }
 
 .title-small {
