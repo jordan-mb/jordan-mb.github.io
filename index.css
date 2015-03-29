@@ -1,0 +1,41 @@
+body {
+	font-family: 'Monaco';
+	margin: 0;
+	color: grey;
+	line-height: 1.5;
+}
+
+img {
+	width: 100%;
+}
+
+#main {
+	padding-top: 50px;
+	font-size: 24px;
+	text-align: center;
+	width: 50%;
+	min-width: 400px;
+	display: block;
+	margin: auto;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.title-small {
+	font-size: 40px;
+}
+
+a {
+	text-decoration: none;
+	color: #484848;
+}
+
+.blue {
+	color: #3284BF;
+}
+
+.yellow {
+	color: #ffb300;
+}
