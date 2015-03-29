@@ -1,6 +1,6 @@
 body {
-	font-family: 'Monaco';
-	color: grey;
+	font-family: 'Arvo', serif;
+	color: #484848;
 	line-height: 1.5;
 	padding: 50px;
 }
@@ -19,17 +19,19 @@ img {
 }
 
 .title {
+font-family: 'Karla', sans-serif;
 	font-size: 50px;
 	margin-top: 50px;
 }
 
 .title-small {
+font-family: 'Karla', sans-serif;
 	font-size: 40px;
 }
 
 a {
 	text-decoration: none;
-	color: #484848;
+	color: grey;
 }
 
 .blue {
